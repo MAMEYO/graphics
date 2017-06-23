@@ -1,0 +1,20 @@
+﻿빌드 시작: 2017-06-23 오후 12:53:07
+     1>2 노드의 "C:\Users\MAMEYO\Documents\GitHub\graphics\Matrices49860489_2010.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\Visual Studio 2015\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /Zc:inline /openmp- /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt  Matrices49860489.cpp
+         Matrices49860489.cpp
+     1>c:\users\mameyo\documents\github\graphics\matrices49860489.cpp(278): warning C4127: 조건식이 상수입니다.
+     1>c:\users\mameyo\documents\github\graphics\matrices49860489.cpp(244): warning C4100: 'lpCmdLine': 참조되지 않은 정식 매개 변수입니다.
+     1>c:\users\mameyo\documents\github\graphics\matrices49860489.cpp(243): warning C4100: 'hPrevInstance': 참조되지 않은 정식 매개 변수입니다.
+     1>c:\users\mameyo\documents\github\graphics\matrices49860489.cpp(432): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mameyo\documents\github\graphics\matrices49860489.cpp(463): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\mameyo\documents\github\graphics\matrices49860489.cpp(495): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         D:\Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MAMEYO\Documents\GitHub\graphics\Debug\Matrices49860489.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx10d.lib d3dx9d.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Visual Studio 2015\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\MAMEYO\Documents\GitHub\graphics\Debug\Matrices49860489.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE:NO /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MAMEYO\Documents\GitHub\graphics\Debug\Matrices49860489.lib" /MACHINE:X86 /SAFESEH  Debug\Matrices49860489.res
+         Debug\Matrices49860489.obj
+         Matrices49860489_2010.vcxproj -> C:\Users\MAMEYO\Documents\GitHub\graphics\Debug\Matrices49860489.exe
+     1>"C:\Users\MAMEYO\Documents\GitHub\graphics\Matrices49860489_2010.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.53
